@@ -533,7 +533,7 @@
 
     <!-- Hash checker page -->
     <sys:String x:Key="Hash_Checker_Hash">雜湊碼</sys:String>
-    <sys:String x:Key="Hash_Checker_Hash.Description">Generate the hash of files, support multiple hash algorithms.</sys:String>
+    <sys:String x:Key="Hash_Checker_Hash.Description">計算檔案的雜湊碼，支援多種演算法。</sys:String>
     <sys:String x:Key="Hash_Checker_Actions">匯入檔案(_I)</sys:String>
     <sys:String x:Key="Hash_Checker_Actions.SelectFiles">選取檔案</sys:String>
     <sys:String x:Key="Hash_Checker_Actions.SelectFolder">選取資料夾</sys:String>
@@ -833,6 +833,7 @@
     <sys:String x:Key="Err_Checking_Installation">讀取安裝檔案時出現錯誤，請嘗試重新讀取，或者重新下載 Office 安裝檔案。</sys:String>
     <sys:String x:Key="Err_Installation">安裝檔案 {0} 包含錯誤：&#x000A;{1}</sys:String>
     <sys:String x:Key="Err_Installation_File_Missing">檔案遺失: {0}</sys:String>
+    <sys:String x:Key="Err_Installation_File_Corrupted">File is corrupted: {0}</sys:String>
     <sys:String x:Key="Err_Installation_Hash">雜湊碼不相符，檔案: {0}&#x000A;雜湊碼: {1}&#x000A;實際的雜湊碼: {2}</sys:String>
     <sys:String x:Key="Err_Installation_Version">版本不相符，檔案: {0}&#x000A;版本: {1}&#x000A;實際版本: {2}</sys:String>
     <sys:String x:Key="Err_Installation_Mismatch">版本不相符，檔案: {0}&#x000A;實際版本: {1}&#x000A;結構: {2}</sys:String>
